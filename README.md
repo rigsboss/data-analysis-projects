@@ -39,4 +39,5 @@ Highlights:
 Implemented agents that outperform humans in multiple Atari games
 
 Used visual state inputs and trained models end-to-end
+
 My Role: Applied neural networks to dynamic environments, trained agents on different games, and optimized their performance through exploration strategies.
